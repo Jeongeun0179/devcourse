@@ -17,6 +17,6 @@ public class CastingEx01 {
         //ascii code로 저장
         int i2 = c1;
         System.out.println( c1 );
-        System.out.println( i2 );
+        System.out.println( i2 ); //65출력
     }
 }

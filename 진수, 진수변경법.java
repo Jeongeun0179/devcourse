@@ -27,7 +27,7 @@ public class DataTypeEx05 {
 
         //10진법 => 다른 진법
         System.out.printf( "%o%n", 10 ); //8진법
-        System.out.printf( "%o%n", 18 ); //16진법
+        System.out.printf( "%x%n", 18 ); //16진법
         
         // 분수 표기법
         int i3 = 100_000_000;
